@@ -53,12 +53,12 @@ I'm actively building my skills and excited to grow through hands-on projects an
 
 <div align="center">
   <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amr-elshabrawy-dev&theme=dracula&hide_border=true&custom_title=Contribution%20Graph&area=true" alt="Contribution Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amrelshabrawydev&theme=dracula&hide_border=true&custom_title=Contribution%20Graph&area=true" alt="Contribution Graph" width="95%" />
   
   <!-- Contribution Stats Side by Side -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amr-elshabrawy-dev&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" width="47%" />
-    <img src="https://github-contributor-stats.vercel.app/api?username=amr-elshabrawy-dev&limit=5&theme=dracula&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repositories" width="47%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrelshabrawydev&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" width="47%" />
+    <img src="https://github-contributor-stats.vercel.app/api?username=amrelshabrawydev&limit=5&theme=dracula&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repositories" width="47%" />
   </p>
 </div>
 
@@ -67,30 +67,30 @@ I'm actively building my skills and excited to grow through hands-on projects an
 <div align="center">
   <picture>
     <source
-      srcset="https://github-stats-alpha.vercel.app/api?username=amr-elshabrawy-dev&cc=282A36&tc=FF6E96&ic=79DAFA&bc=282A36"
+      srcset="https://github-stats-alpha.vercel.app/api?username=amrelshabrawydev&cc=282A36&tc=FF6E96&ic=79DAFA&bc=282A36"
       media="(prefers-color-scheme: dark)"
       width="95%"
     />
     <source
-      srcset="https://github-stats-alpha.vercel.app/api?username=amr-elshabrawy-dev&cc=FFFFFF&tc=FF79C6&ic=79DAFA&bc=FFFFFF"
+      srcset="https://github-stats-alpha.vercel.app/api?username=amrelshabrawydev&cc=FFFFFF&tc=FF79C6&ic=79DAFA&bc=FFFFFF"
       media="(prefers-color-scheme: light)"
       width="95%"
     />
     <img
-      src="https://github-stats-alpha.vercel.app/api?username=Amr-Elshabrawy-Dev&cc=22272e&tc=37BCF6&ic=fff&bc=0000"
+      src="https://github-stats-alpha.vercel.app/api?username=AmrElshabrawyDev&cc=22272e&tc=37BCF6&ic=fff&bc=0000"
       alt="GitHub Contribution Stats"
       width="95%"
     />
   </picture>
 
 <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=Amr-Elshabrawy-Dev&theme=dracula&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com?user=AmrElshabrawyDev&theme=dracula&hide_border=true"
     alt="GitHub Streak Stats"
     width="95%"
   />
 
 <img
-    src="https://github-readme-stats.vercel.app/api?username=amr-elshabrawy-dev&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=amrelshabrawydev&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"
     alt="GitHub Activity Stats"
     width="95%"
   />
@@ -102,7 +102,7 @@ I'm actively building my skills and excited to grow through hands-on projects an
 ## 🏆 Git Profile Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amr-elshabrawy-dev&theme=dracula&no-bg=true&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amrelshabrawydev&theme=dracula&no-bg=true&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -111,7 +111,7 @@ I'm actively building my skills and excited to grow through hands-on projects an
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Amr-Elshabrawy-Dev) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201202546653?text=Hi%20Amr!%20I%20saw%20your%20portfolio%20and%20would%20love%20to%20discuss%20a%20potential%20collaboration) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amr-Elshabrawy-Dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=logmein&logoColor=white)](https://www.linkedin.com/in/amr-elshabrawy-dev) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amrelshabrawy.dev@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/@AmrElshabr43803)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amrelshabrawydev.github.io) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201202546653?text=Hi%20Amr!%20I%20saw%20your%20portfolio%20and%20would%20love%20to%20discuss%20a%20potential%20collaboration) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmrElshabrawyDev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=logmein&logoColor=white)](https://www.linkedin.com/in/amr-elshabrawy-dev) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amrelshabrawy.dev@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/@AmrElshabr43803)
 
 </div>
 
@@ -122,7 +122,7 @@ I'm actively building my skills and excited to grow through hands-on projects an
     <br>
     <br>
     <p align="center">
-      Created with 💚 and ☕ by <strong><a href="https://github.com/Amr-Elshabrawy-Dev" target="_blank" rel="noopener noreferrer">AMR ELSHABRAWY</a></strong><br>
+      Created with 💚 and ☕ by <strong><a href="https://amrelshabrawydev.github.io" target="_blank" rel="noopener noreferrer">AMR ELSHABRAWY</a></strong><br>
       &copy; 2025 | All Rights Reserved | Keep coding 🚀
     </p>
   </div>
