@@ -57,8 +57,8 @@ I'm actively building my skills and excited to grow through hands-on projects an
   
   <!-- Contribution Stats Side by Side -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrelshabrawydev&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" width="47%" />
-    <img src="https://github-contributor-stats.vercel.app/api?username=amrelshabrawydev&limit=5&theme=dracula&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repositories" width="47%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=amrelshabrawydev&layout=donut&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Most Used Languages" width="47%" />
+    <img src="https://github-contributor-stats.vercel.app/api?username=amrelshabrawydev&limit=6&theme=dracula&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repositories" width="47%" />
   </p>
 </div>
 
@@ -77,7 +77,7 @@ I'm actively building my skills and excited to grow through hands-on projects an
       width="95%"
     />
     <img
-      src="https://github-stats-alpha.vercel.app/api?username=AmrElshabrawyDev&cc=22272e&tc=37BCF6&ic=fff&bc=0000"
+      src="https://github-stats-alpha.vercel.app/api?username=amrelshabrawydev&cc=22272e&tc=37BCF6&ic=fff&bc=0000"
       alt="GitHub Contribution Stats"
       width="95%"
     />
@@ -90,7 +90,7 @@ I'm actively building my skills and excited to grow through hands-on projects an
   />
 
 <img
-    src="https://github-readme-stats.vercel.app/api?username=amrelshabrawydev&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=amrelshabrawydev&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"
     alt="GitHub Activity Stats"
     width="95%"
   />
@@ -102,7 +102,11 @@ I'm actively building my skills and excited to grow through hands-on projects an
 ## 🏆 Git Profile Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amrelshabrawydev&theme=dracula&no-bg=true&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img 
+      src="https://github-profile-trophy-fork-two.vercel.app/?username=amrelshabrawydev&theme=dracula&no-bg=true&no-frame=true&row=1&column=7&margin-w=15&margin-h=15"
+      alt="GitHub Profile Trophies"
+      width="95%"
+    />
 </div>
 
 ---
