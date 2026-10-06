@@ -15,7 +15,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-1E66F5?style=flat-square&logo=googlechrome&logoColor=white)](https://amrelshabrawydev.github.io)
 [![Khamsat 5.0](https://img.shields.io/badge/Khamsat-5.0%20%E2%98%85%20%C2%B7%20100%25%20completion-f9e2af?style=flat-square)](https://khamsat.com/user/amrelshabrawydev/reviews)
 [![Available](https://img.shields.io/badge/Available%20for%20projects-a6e3a1?style=flat-square)](https://amrelshabrawydev.github.io/contact)
-[![Profile views](https://komarev.com/ghpvc/?username=AmrElshabrawyDev&style=flat-square&color=cba6f7&label=Profile+views)](https://github.com/AmrElshabrawyDev)
+[![Profile views](https://img.shields.io/badge/%20%E2%98%85Profile%20views-cba6f7?style=flat-square&logo=stare&logoColor=gold)](https://github.com/AmrElshabrawyDev)
 
 </div>
 
@@ -162,11 +162,11 @@ Have a project in mind, a site that needs rescuing, or just want to talk code?<b
 [![Portfolio](https://img.shields.io/badge/Portfolio-1E66F5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amrelshabrawydev.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-elshabrawy-dev)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201202546653?text=Hi%20Amr!%20I%20saw%20your%20GitHub%20profile%20and%20would%20love%20to%20discuss%20a%20project)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AmrElshabr43803)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amrelshabrawy.dev@gmail.com)
 [![Khamsat](https://img.shields.io/badge/Khamsat-F9A825?style=for-the-badge&logoColor=white)](https://khamsat.com/user/amrelshabrawydev)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AmrElshabr43803)
 
-<br/><br/>
+<br/>
 
 <a href="https://amrelshabrawydev.github.io"><img src="./assets/amr.svg" alt="Amr Elshabrawy logo" width="80" /></a>
 
