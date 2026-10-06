@@ -15,7 +15,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-1E66F5?style=flat-square&logo=googlechrome&logoColor=white)](https://amrelshabrawydev.github.io)
 [![Khamsat 5.0](https://img.shields.io/badge/Khamsat-5.0%20%E2%98%85%20%C2%B7%20100%25%20completion-f9e2af?style=flat-square)](https://khamsat.com/user/amrelshabrawydev/reviews)
 [![Available](https://img.shields.io/badge/Available%20for%20projects-a6e3a1?style=flat-square)](https://amrelshabrawydev.github.io/contact)
-[![Profile views](https://img.shields.io/badge/%20%E2%98%85Profile%20views-cba6f7?style=flat-square&logo=stare&logoColor=gold)](https://github.com/AmrElshabrawyDev)
+[![Open source: wayback-restore](https://img.shields.io/badge/Open%20source-wayback--restore-cba6f7?style=flat-square&logo=github&logoColor=white)](https://github.com/AmrElshabrawyDev/wayback-restore)
 
 </div>
 
