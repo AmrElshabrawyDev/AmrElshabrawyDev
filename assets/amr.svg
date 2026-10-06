@@ -1,12 +1,1 @@
-<svg viewBox="0 0 572 572" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" version="1.0"
-  xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet"
-  stroke-linecap="round" stroke-linejoin="round" >
-  <path
-    d=" M 41 183.5, L 41 378.5, 256 503.5, 317 503.5, 531 378.5, 531 183.5, 317 68.5, 256 68.5, z"
-    stroke="#FFFFFF" stroke-width="25" fill="transparent" />
-  <path d="M 116 305.5, L 116 385.5, 76 360.5, 76 200.5, 196 136.5, 196 430.5, 156 405.5, 156 305.5,z M 116 225.5, 116 265.5, 156 265.5, 156 205.5,z 
-    M 216 125.5, L 256 103.5, 286 205.5, 316 103.5, 356 125.5, 356 440.5, 316 465.5, 316 225.5, 300 265.5, 271 265.5, 256 225.5, 256 465.5, 216 440.5, z 
-    M 416 305.5, L 416 405.5, 376 430.5, 376 136.5, 496 200.5, 496 270.5, 476 280.5, 496 290.5, 496 360.5, 456 385.5, 456 325.5, 431 305.5,z
-    M  416 205.5, L 416 265.5, 431 265.5, 456 240.5, 456 225.5,z "
-    fill="#FFFFFF" />
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 572 572" width="572" height="572" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Amr Elshabrawy logo"><title>Amr Elshabrawy</title><path d="M256 68.5l-215 115v195l215 125h61l214-125v-195l-214-115z" fill="#89b4fa" stroke="#89b4fa" stroke-width="40"/><path d="M116 305.5v80l-40-25v-160l120-64v294l-40-25v-100zm0-80v40h40v-60z" fill="#181825"/><path d="M271 265.5l-15-40v240l-40-25v-315l40-22 30 102 30-102 40 22v315l-40 25v-240l-16 40z" fill="#cdd6f4"/><path d="M416 305.5v100l-40 25v-294l120 64v70l-20 10 20 10v70l-40 25v-60l-25-20zm0-100v60h15l25-25v-15z" fill="#181825"/></svg>
