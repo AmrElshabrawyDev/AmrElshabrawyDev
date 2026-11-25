@@ -23,7 +23,7 @@
 
 ## 👋 Hi, I'm Amr
 
-I'm a **freelance React & Next.js developer** from Egypt 🇪🇬 with **4+ years** of shipping real work for clients in Egypt, the Gulf and worldwide.
+I'm a **freelance React & Next.js developer** from Egypt 🇪🇬 with **4 years** of shipping real work for clients in Egypt, the Gulf and worldwide.
 
 I don't just build interfaces — I build websites that **load fast, rank on Google and bring in customers**: business sites, online stores (Next.js and Salla), dashboards, and WordPress-to-Next.js migrations that keep their rankings. When something breaks in production — payments, hydration, SEO — I'm the person who digs in and fixes it.
 
